@@ -26,7 +26,7 @@ pip install tk
 Como Executar
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/CalendarManager.git
+git clone leandroo65/Dental-Calendar-Manager
 
 Navegue até a pasta do projeto:
 cd CalendarManager
